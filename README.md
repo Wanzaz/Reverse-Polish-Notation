@@ -1,8 +1,8 @@
 # Reverse-Polish-Notation
 - different syntax than in normal counting
 - Normal: ```1 + 2 = 3```
-- Polish Notation ```+ 1 2 = 3```
-- Reverse Polish Notation ```1 2 + = 3```
+- Polish Notation ```= (+ 1 2) 3```
+- Reverse Polish Notation ```3 (1 2 +) =```
 <br/>
 
 ## About program
