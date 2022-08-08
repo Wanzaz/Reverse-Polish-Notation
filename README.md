@@ -19,7 +19,7 @@
 
 ## Non-Interactive
 - run with ```cat filename.txt | main.rb```
-- the file has to be formated depended on this program
+- the file has to be formatted depended on this program
 <br/>
 
 ## TO-DO
